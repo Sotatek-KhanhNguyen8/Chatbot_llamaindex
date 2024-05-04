@@ -1,0 +1,6 @@
+openai
+llama-index
+llama-index-agent-openai
+tiktoken
+llama-index-llms-openai
+pydantic==2.7.1
